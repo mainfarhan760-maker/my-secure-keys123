@@ -98,5 +98,9 @@
   {
     "chat_id": "FREE",
     "expiry": "2026-03-28"
+  },
+  {
+    "chat_id": "AKASH",
+    "expiry": "2029-04-03"
   }
 ]
